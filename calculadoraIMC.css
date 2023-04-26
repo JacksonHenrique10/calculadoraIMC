@@ -1,0 +1,53 @@
+*{margin: 0 px; padding: px; box-sizing: border-box;}
+
+#boasVindas{
+    position: absolute;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+fieldset{
+    border: solid 3px black;
+    border-radius: 25px;
+    background-color:antiquewhite;
+}
+.lateral{
+    margin-top: 25vh;
+}
+
+.background{
+    background-image: url(../calculadoraIMC/pexels-photo-220182.jpeg);
+        
+    width: 300px;
+    height: 300px;
+}
+
+#descExercicio{
+    height: 100px;
+    padding: 1%;
+    color: rgb(0, 0, 0);
+    
+}
+
+.descExercicio{
+
+    height: 65vh;
+    width: 65vh;
+
+}
+
+.centro{
+    top: 1;
+    let
+}
+
+body{
+    display: grid;grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
